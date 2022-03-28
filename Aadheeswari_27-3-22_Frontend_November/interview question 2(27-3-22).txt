@@ -1,0 +1,6 @@
+2) What is fetch API react?
+  
+
+      The Fetch API through the fetch() method allows us to make an HTTP request to the backend. With this method, we can 
+perform different types of operations using HTTP methods like the GET method to request data from an endpoint, POST to 
+send data to an endpoint, and more

@@ -1,0 +1,5 @@
+3) what is lazy loading?
+
+
+    Lazy loading is the practice of delaying load or initialization of resources or objects until they're actually needed 
+to improve performance and save system resources.

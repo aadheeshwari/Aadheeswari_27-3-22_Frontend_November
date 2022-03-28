@@ -1,0 +1,3 @@
+4) How do I stop rendering?
+  
+           Hitting ESC or pressing the (X) button in the Dashboard will cancel render.
